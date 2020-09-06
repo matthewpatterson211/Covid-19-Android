@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+    <string name="action_settings">Select State</string>
+    <string name="action_us">Show US data</string>
+    <string name="action_refresh">Refresh Data</string>
+    <string name="graph_loading">Downloading Covid-19 data</string>
+    <string name="graph_loading_state">Downloading Covid-19 data (%s)</string>
+    <string name="graph_details">Select a bar to see details</string>
+    <string name="graph_bottom_details_catenation">%s deaths on %s</string>
+    <string name="graph_top_details">Covid-19\nTotal Deaths: %s (%s)</string>
+    <string name="settings_state_name">MO</string>
+    <string name="settings_covid_site">The website for that states Covid-19 results</string>
+
+</resources>
